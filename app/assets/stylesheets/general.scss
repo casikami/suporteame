@@ -1,0 +1,55 @@
+.red-circle{
+  border: 2px solid red;
+  border-radius: 70%;
+  padding: 5px;
+}
+
+.black-circle{
+  border: 3px solid #000;
+  border-radius: 70%;
+}
+
+:focus {
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+.nav-search{
+	left: -20px;
+  top: 10px;
+}
+
+.mt-10{
+	margin-top: 70px;
+}
+
+.start{
+	background: #223a22;
+	border-radius: 25px;
+	border:1px solid #010101 ;
+
+}
+
+.elegi-tu-usuario{
+	background: #ff0101d9;
+	border-radius: 25px;
+	border:1px solid #010101 ;
+
+}
+
+.crear-rifa{
+	background: #d39e00;
+	border-radius: 25px;
+	border:1px solid #010101 ;
+
+}
+
+.sponsor{
+	background: #0062cc;
+	border-radius: 25px;
+	border:1px solid #010101 ;
+
+}
+
+.size-100{
+	font-size: 110px;
+}
