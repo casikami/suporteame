@@ -11,4 +11,12 @@ class StaticsController < ApplicationController
 	def rifa
 		
 	end
+
+	def rifa_form
+		
+	end
+
+	def rifa_tiket
+		
+	end
 end
