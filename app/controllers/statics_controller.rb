@@ -7,4 +7,8 @@ class StaticsController < ApplicationController
 	def general_search
 		
 	end
+
+	def rifa
+		
+	end
 end
